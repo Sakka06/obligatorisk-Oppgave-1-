@@ -8,7 +8,7 @@
 <body>
 
 <h1>Klasser og studenter</h1>
-<p>ibrahim Mohamud - PRG120V</p>
+<p>Sakerie Hassan - PRG120V</p>
 
 <h2>Klasser</h2>
 <ul>
